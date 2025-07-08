@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/prakriti/static/css/main.1b704f97.css",
-    "main.js": "/prakriti/static/js/main.588810df.js",
+    "main.js": "/prakriti/static/js/main.43e5638f.js",
     "static/js/787.88730618.chunk.js": "/prakriti/static/js/787.88730618.chunk.js",
     "static/media/photo3.jpg": "/prakriti/static/media/photo3.7712c4a0895700d5b074.jpg",
     "static/media/photo1.jpg": "/prakriti/static/media/photo1.5e0b12aba73733ae895b.jpg",
@@ -30,11 +30,11 @@
     "index.html": "/prakriti/index.html",
     "static/media/icon-shape.svg": "/prakriti/static/media/icon-shape.9ca35a45394ec3d52946.svg",
     "main.1b704f97.css.map": "/prakriti/static/css/main.1b704f97.css.map",
-    "main.588810df.js.map": "/prakriti/static/js/main.588810df.js.map",
+    "main.43e5638f.js.map": "/prakriti/static/js/main.43e5638f.js.map",
     "787.88730618.chunk.js.map": "/prakriti/static/js/787.88730618.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b704f97.css",
-    "static/js/main.588810df.js"
+    "static/js/main.43e5638f.js"
   ]
 }
