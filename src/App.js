@@ -34,7 +34,7 @@ function App() {
    <>
     <Layout className="mainLayout">
     
-      <BrowserRouter basename="/prakriti">
+      <BrowserRouter>
      
       
 <Upper_header/>
