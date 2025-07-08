@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/prakriti/static/css/main.1b704f97.css",
+    "main.js": "/prakriti/static/js/main.43e5638f.js",
+    "static/js/787.88730618.chunk.js": "/prakriti/static/js/787.88730618.chunk.js",
+    "static/media/photo3.jpg": "/prakriti/static/media/photo3.7712c4a0895700d5b074.jpg",
+    "static/media/photo1.jpg": "/prakriti/static/media/photo1.5e0b12aba73733ae895b.jpg",
+    "static/media/photo2.jpg": "/prakriti/static/media/photo2.5fee4b6621b818d39921.jpg",
+    "static/media/amentiesBg.jpg": "/prakriti/static/media/amentiesBg.9583a42a8f813a5031fd.jpg",
+    "static/media/project9.jpg": "/prakriti/static/media/project9.51d786960b9902ab40e8.jpg",
+    "static/media/walk.png": "/prakriti/static/media/walk.b8e19b8666d514e1d039.png",
+    "static/media/banner9.jpg": "/prakriti/static/media/banner9.ee59fa6c9c0819ec677b.jpg",
+    "static/media/project10.jpg": "/prakriti/static/media/project10.6b7810e4ae3a4cd20f08.jpg",
+    "static/media/lobby.png": "/prakriti/static/media/lobby.a8d938436bfa72f53a68.png",
+    "static/media/gym.png": "/prakriti/static/media/gym.ac7d2543d22e34f3af53.png",
+    "static/media/yoga.png": "/prakriti/static/media/yoga.0d45c5bec9a940c7dd7f.png",
+    "static/media/project4.jpg": "/prakriti/static/media/project4.2e30baa949ff929aa5b0.jpg",
+    "static/media/location.png": "/prakriti/static/media/location.6fe88a6d66713e23c876.png",
+    "static/media/child.png": "/prakriti/static/media/child.c39f51a21963ae97f60e.png",
+    "static/media/about1.jpg": "/prakriti/static/media/about1.23a417c21f9a25c550f1.jpg",
+    "static/media/project-1.jpg": "/prakriti/static/media/project-1.1eda0186c7efe3d9751a.jpg",
+    "static/media/logo.png": "/prakriti/static/media/logo.02e313f1957ccae9ae81.png",
+    "static/media/project5.jpg": "/prakriti/static/media/project5.6769d0cca383f7c0f6a8.jpg",
+    "static/media/about2.jpg": "/prakriti/static/media/about2.cbd8c9ff58d9cd059974.jpg",
+    "static/media/pattern-2.png": "/prakriti/static/media/pattern-2.4b62704afbffa547b104.png",
+    "static/media/author.png": "/prakriti/static/media/author.cd17f0f686c176cf4142.png",
+    "static/media/revicons.eot": "/prakriti/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/prakriti/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/prakriti/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/prakriti/index.html",
+    "static/media/icon-shape.svg": "/prakriti/static/media/icon-shape.9ca35a45394ec3d52946.svg",
+    "main.1b704f97.css.map": "/prakriti/static/css/main.1b704f97.css.map",
+    "main.43e5638f.js.map": "/prakriti/static/js/main.43e5638f.js.map",
+    "787.88730618.chunk.js.map": "/prakriti/static/js/787.88730618.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b704f97.css",
+    "static/js/main.43e5638f.js"
+  ]
+}
